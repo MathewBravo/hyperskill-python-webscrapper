@@ -53,6 +53,9 @@ files:
     Title or description in returned dict do not seem to be correct.\")\n\n\nif __name__\
     \ == '__main__':\n    WebScraperTest().run_tests()\n"
   learner_created: false
-feedback_link: https://hyperskill.org/projects/145/stages/782/implement#comment
-status: Unchecked
+feedback_link: https://hyperskill.org/learn/step/11756#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sun, 18 Sep 2022 19:43:17 UTC
 record: -1
